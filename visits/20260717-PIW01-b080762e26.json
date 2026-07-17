@@ -2,8 +2,10 @@
   "visit_id": "20260717-PIW01-b080762e26",
   "site_code": "PIW01",
   "arrival": "2026-07-17T16:11:27.593134",
-  "departure": "2026-07-17T16:12:18.107736",
+  "departure": "2026-07-17T16:12:47.291191",
   "personnel": [
     "p-testp"
-  ]
+  ],
+  "campaign_id": null,
+  "_source_file": null
 }
