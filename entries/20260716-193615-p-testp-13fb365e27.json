@@ -1,0 +1,39 @@
+{
+  "notebook_line": "2026-07-16  19:36  p-testp — quick_note/site_conditions: hkvvkhvukvkjjkvvjkvjkvjl",
+  "observation_time": "2026-07-16T19:36:00",
+  "entered_timestamp": "2026-07-16T19:36:15.242308",
+  "timestamp_end": "2026-07-16T19:36:15.242308",
+  "author": "p-testp",
+  "type": "quick_note",
+  "category": "site_conditions",
+  "text": "hkvvkhvukvkjjkvvjkvjkvjl",
+  "tags": [],
+  "data": null,
+  "media": null,
+  "deleted": {
+    "timestamp": "2026-07-16T19:36:30",
+    "by": "p-testp",
+    "reason": "vjkjlvjlv"
+  },
+  "comments": [],
+  "edit_history": [
+    {
+      "timestamp": "2026-07-16T19:36:24",
+      "edited_by": "p-testp",
+      "changes": {
+        "text": "hkvvkhvuk"
+      }
+    }
+  ],
+  "void_history": [
+    {
+      "action": "voided",
+      "timestamp": "2026-07-16T19:36:30",
+      "by": "p-testp",
+      "reason": "vjkjlvjlv"
+    }
+  ],
+  "visit_id": "20260716-PIW01-814fb98a35",
+  "record_created": "2026-07-16T19:36:15.258506",
+  "entry_id": "20260716-193615-p-testp-13fb365e27"
+}

@@ -1,0 +1,21 @@
+{
+  "notebook_line": "2026-07-01  09:30  TestP — deployed Staff plate — Stage Plate (SN PLT-400) at PIW01",
+  "occurred_at": "2026-07-01T09:30:00",
+  "tz": "MDT",
+  "author": "TestP",
+  "event_type": "placement",
+  "act": "deploy",
+  "subject": {
+    "kind": "instance",
+    "ref": "iw-plate"
+  },
+  "anchor": {
+    "kind": "site",
+    "ref": "PIW01"
+  },
+  "note": "",
+  "visit_id": null,
+  "source": "field",
+  "record_created": "2026-07-15T12:55:51.895989",
+  "event_id": "f1dd4ce4-74a5-40db-8f54-6de1571e5ab3"
+}

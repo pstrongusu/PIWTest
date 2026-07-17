@@ -1,0 +1,21 @@
+{
+  "notebook_line": "2026-07-03  08:00  TestP — placed Spare sonde — EXO2 (SN SND-201) → Field Kit",
+  "occurred_at": "2026-07-03T08:00:00",
+  "tz": "MDT",
+  "author": "TestP",
+  "event_type": "placement",
+  "act": "place",
+  "subject": {
+    "kind": "instance",
+    "ref": "iw-sonde2"
+  },
+  "anchor": {
+    "kind": "container",
+    "ref": "cont-216b1e56c1"
+  },
+  "note": "",
+  "visit_id": null,
+  "source": "field",
+  "record_created": "2026-07-15T12:55:51.899301",
+  "event_id": "77794ce0-cdba-4937-aa06-0130d6da12a7"
+}

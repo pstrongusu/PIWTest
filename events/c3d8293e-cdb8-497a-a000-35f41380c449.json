@@ -1,0 +1,19 @@
+{
+  "notebook_line": "2026-07-04  10:00  TestP — recovered Wiper Tip (SN TIP-310) — released (unplaced), headed to Truck 2",
+  "occurred_at": "2026-07-04T10:00:00",
+  "tz": "MDT",
+  "author": "TestP",
+  "event_type": "placement",
+  "act": "recover",
+  "subject": {
+    "kind": "instance",
+    "ref": "iw-pending"
+  },
+  "anchor": null,
+  "pending_destination": "cont-1741c99bc7",
+  "note": "",
+  "visit_id": null,
+  "source": "field",
+  "record_created": "2026-07-15T12:55:51.903764",
+  "event_id": "c3d8293e-cdb8-497a-a000-35f41380c449"
+}

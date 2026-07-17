@@ -1,0 +1,21 @@
+{
+  "notebook_line": "2026-07-03  08:00  TestP — placed Wiper Tip (SN TIP-301) → Field Kit",
+  "occurred_at": "2026-07-03T08:00:00",
+  "tz": "MDT",
+  "author": "TestP",
+  "event_type": "placement",
+  "act": "place",
+  "subject": {
+    "kind": "instance",
+    "ref": "iw-spare1"
+  },
+  "anchor": {
+    "kind": "container",
+    "ref": "cont-216b1e56c1"
+  },
+  "note": "",
+  "visit_id": null,
+  "source": "field",
+  "record_created": "2026-07-15T12:55:51.898298",
+  "event_id": "641f4db9-36b5-4c2a-95ab-739b2fcd28fb"
+}

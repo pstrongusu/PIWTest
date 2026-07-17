@@ -1,0 +1,25 @@
+{
+  "notebook_line": "2026-07-16  19:29  p-testp — future: bo'uvhkvhk",
+  "observation_time": "2026-07-16T19:29:25.017216",
+  "entered_timestamp": "2026-07-16T19:29:25.017216",
+  "timestamp_end": "2026-07-16T19:29:25.017216",
+  "author": "p-testp",
+  "type": "future",
+  "text": "bo'uvhkvhk",
+  "tags": [],
+  "data": null,
+  "media": null,
+  "future_category": "bring",
+  "future_status": {
+    "state": "open",
+    "acknowledged_at": null,
+    "closed_at": null,
+    "close_reason": null,
+    "resolved_by_entry_id": null
+  },
+  "deleted": null,
+  "comments": [],
+  "visit_id": "20260716-PIW01-5df807ba3b",
+  "record_created": "2026-07-16T19:29:25.017216",
+  "entry_id": "20260716-192925-p-testp-22c4ea94dd"
+}

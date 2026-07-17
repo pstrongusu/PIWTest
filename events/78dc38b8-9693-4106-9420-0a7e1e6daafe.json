@@ -1,0 +1,21 @@
+{
+  "notebook_line": "2026-07-01  09:00  TestP — deployed Station logger — CR1000 (SN LOG-100) at PIW01",
+  "occurred_at": "2026-07-01T09:00:00",
+  "tz": "MDT",
+  "author": "TestP",
+  "event_type": "placement",
+  "act": "deploy",
+  "subject": {
+    "kind": "instance",
+    "ref": "iw-logger"
+  },
+  "anchor": {
+    "kind": "site",
+    "ref": "PIW01"
+  },
+  "note": "",
+  "visit_id": null,
+  "source": "field",
+  "record_created": "2026-07-15T12:55:51.886090",
+  "event_id": "78dc38b8-9693-4106-9420-0a7e1e6daafe"
+}

@@ -1,0 +1,21 @@
+{
+  "notebook_line": "2026-07-03  08:11  TestP — placed Stage Plate (SN DUP-1) → Truck 2",
+  "occurred_at": "2026-07-03T08:11:00",
+  "tz": "MDT",
+  "author": "TestP",
+  "event_type": "placement",
+  "act": "place",
+  "subject": {
+    "kind": "instance",
+    "ref": "iw-dup-b"
+  },
+  "anchor": {
+    "kind": "container",
+    "ref": "cont-1741c99bc7"
+  },
+  "note": "",
+  "visit_id": null,
+  "source": "field",
+  "record_created": "2026-07-15T12:55:51.901692",
+  "event_id": "a701c9e0-f72f-45a7-a5a6-9a141ac47589"
+}

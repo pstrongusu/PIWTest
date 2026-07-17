@@ -1,0 +1,28 @@
+{
+  "containers": [
+    {
+      "container_id": "cont-3ee6c005f5",
+      "kind": "bench",
+      "name": "Bench / Lab",
+      "statio_behavior": "defining",
+      "temporal_shape": "always_open",
+      "is_default": false
+    },
+    {
+      "container_id": "cont-216b1e56c1",
+      "kind": "carried_kit",
+      "name": "Field Kit",
+      "statio_behavior": "passthrough",
+      "temporal_shape": "always_open",
+      "is_default": true
+    },
+    {
+      "container_id": "cont-1741c99bc7",
+      "kind": "carried_kit",
+      "name": "Truck 2",
+      "statio_behavior": "passthrough",
+      "temporal_shape": "always_open",
+      "is_default": false
+    }
+  ]
+}

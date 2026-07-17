@@ -1,0 +1,21 @@
+{
+  "notebook_line": "2026-07-03  08:10  TestP — placed Wiper Tip (SN DUP-1) → Truck 2",
+  "occurred_at": "2026-07-03T08:10:00",
+  "tz": "MDT",
+  "author": "TestP",
+  "event_type": "placement",
+  "act": "place",
+  "subject": {
+    "kind": "instance",
+    "ref": "iw-dup-a"
+  },
+  "anchor": {
+    "kind": "container",
+    "ref": "cont-1741c99bc7"
+  },
+  "note": "",
+  "visit_id": null,
+  "source": "field",
+  "record_created": "2026-07-15T12:55:51.901692",
+  "event_id": "ad799587-2f0d-47e9-a6f7-21b279eb753f"
+}

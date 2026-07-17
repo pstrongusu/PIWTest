@@ -1,0 +1,170 @@
+{
+  "models": [
+    {
+      "model_id": "mw-logger",
+      "model": "CR1000",
+      "category": "Station Infrastructure",
+      "deployable": true,
+      "accepts_children": true,
+      "attribute_schema": [
+        {
+          "key": "scan_interval_s",
+          "label": "Scan interval",
+          "datatype": "number",
+          "units": "s",
+          "level": "deployment"
+        }
+      ]
+    },
+    {
+      "model_id": "mw-sonde",
+      "model": "EXO2",
+      "category": "Sensors",
+      "deployable": true,
+      "accepts_children": true,
+      "mounts_into": [
+        "mw-logger"
+      ],
+      "attribute_schema": [
+        {
+          "key": "orifice_depth_m",
+          "label": "Orifice depth",
+          "datatype": "number",
+          "units": "m",
+          "level": "deployment"
+        },
+        {
+          "key": "cable_length_m",
+          "label": "Cable length",
+          "datatype": "number",
+          "units": "m",
+          "level": "instance"
+        }
+      ]
+    },
+    {
+      "model_id": "mw-tip",
+      "model": "Wiper Tip",
+      "category": "Sensors",
+      "deployable": true,
+      "mounts_into": [
+        "mw-sonde"
+      ]
+    },
+    {
+      "model_id": "mw-plate",
+      "model": "Stage Plate",
+      "category": "Flow Measurement",
+      "deployable": true,
+      "attribute_schema": [
+        {
+          "key": "plate_datum_offset_m",
+          "label": "Datum offset",
+          "datatype": "number",
+          "units": "m",
+          "level": "instance"
+        }
+      ]
+    },
+    {
+      "model_id": "mw-mon",
+      "model": "Survey Monument",
+      "category": "Survey Control",
+      "deployable": true
+    }
+  ],
+  "instances": [
+    {
+      "instance_id": "iw-logger",
+      "model_id": "mw-logger",
+      "serial": "LOG-100",
+      "label": "Station logger",
+      "record_created": "2026-07-15T12:55:51.806870"
+    },
+    {
+      "instance_id": "iw-sonde",
+      "model_id": "mw-sonde",
+      "serial": "SND-200",
+      "label": "Main sonde",
+      "attribute_values": {
+        "cable_length_m": 15
+      },
+      "record_created": "2026-07-15T12:55:51.812020"
+    },
+    {
+      "instance_id": "iw-tip",
+      "model_id": "mw-tip",
+      "serial": "TIP-300",
+      "record_created": "2026-07-15T12:55:51.818483"
+    },
+    {
+      "instance_id": "iw-plate",
+      "model_id": "mw-plate",
+      "serial": "PLT-400",
+      "label": "Staff plate",
+      "attribute_values": {
+        "plate_datum_offset_m": 0.25
+      },
+      "record_created": "2026-07-15T12:55:51.823658"
+    },
+    {
+      "instance_id": "iw-spare1",
+      "model_id": "mw-tip",
+      "serial": "TIP-301",
+      "record_created": "2026-07-15T12:55:51.829862"
+    },
+    {
+      "instance_id": "iw-spare2",
+      "model_id": "mw-tip",
+      "serial": "TIP-302",
+      "record_created": "2026-07-15T12:55:51.835031"
+    },
+    {
+      "instance_id": "iw-sonde2",
+      "model_id": "mw-sonde",
+      "serial": "SND-201",
+      "label": "Spare sonde",
+      "attribute_values": {
+        "cable_length_m": 20
+      },
+      "record_created": "2026-07-15T12:55:51.840196"
+    },
+    {
+      "instance_id": "iw-away",
+      "model_id": "mw-plate",
+      "serial": "PLT-401",
+      "record_created": "2026-07-15T12:55:51.846359"
+    },
+    {
+      "instance_id": "iw-foundme",
+      "model_id": "mw-mon",
+      "serial": "MON-500",
+      "label": "Bench monument",
+      "record_created": "2026-07-15T12:55:51.851773"
+    },
+    {
+      "instance_id": "iw-dup-a",
+      "model_id": "mw-tip",
+      "serial": "DUP-1",
+      "record_created": "2026-07-15T12:55:51.857819"
+    },
+    {
+      "instance_id": "iw-dup-b",
+      "model_id": "mw-plate",
+      "serial": "DUP-1",
+      "record_created": "2026-07-15T12:55:51.868264"
+    },
+    {
+      "instance_id": "iw-pending",
+      "model_id": "mw-tip",
+      "serial": "TIP-310",
+      "record_created": "2026-07-15T12:55:51.874659"
+    },
+    {
+      "instance_id": "iw-unplaced",
+      "model_id": "mw-tip",
+      "serial": "TIP-311",
+      "record_created": "2026-07-15T12:55:51.880198"
+    }
+  ]
+}

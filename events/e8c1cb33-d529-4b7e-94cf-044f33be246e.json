@@ -1,0 +1,21 @@
+{
+  "notebook_line": "2026-07-01  09:10  TestP — mounted Main sonde — EXO2 (SN SND-200) into Station logger — CR1000 (SN LOG-100)",
+  "occurred_at": "2026-07-01T09:10:00",
+  "tz": "MDT",
+  "author": "TestP",
+  "event_type": "placement",
+  "act": "mount",
+  "subject": {
+    "kind": "instance",
+    "ref": "iw-sonde"
+  },
+  "anchor": {
+    "kind": "instance",
+    "ref": "iw-logger"
+  },
+  "note": "",
+  "visit_id": null,
+  "source": "field",
+  "record_created": "2026-07-15T12:55:51.894941",
+  "event_id": "e8c1cb33-d529-4b7e-94cf-044f33be246e"
+}

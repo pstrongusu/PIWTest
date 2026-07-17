@@ -1,0 +1,25 @@
+{
+  "notebook_line": "2026-07-16  19:29  p-testp — future: cigcgj hkhvkhv",
+  "observation_time": "2026-07-16T19:29:39.349554",
+  "entered_timestamp": "2026-07-16T19:29:39.349554",
+  "timestamp_end": "2026-07-16T19:29:39.349554",
+  "author": "p-testp",
+  "type": "future",
+  "text": "cigcgj hkhvkhv",
+  "tags": [],
+  "data": null,
+  "media": null,
+  "future_category": "check",
+  "future_status": {
+    "state": "open",
+    "acknowledged_at": null,
+    "closed_at": null,
+    "close_reason": null,
+    "resolved_by_entry_id": null
+  },
+  "deleted": null,
+  "comments": [],
+  "visit_id": "20260716-PIW02-2c03d2f07c",
+  "record_created": "2026-07-16T19:29:39.349554",
+  "entry_id": "20260716-192939-p-testp-3294054cb5"
+}

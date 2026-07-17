@@ -1,0 +1,10 @@
+{
+  "personnel": [
+    {
+      "id": "p-testp",
+      "name": "TestP",
+      "role": "technician",
+      "status": "active"
+    }
+  ]
+}

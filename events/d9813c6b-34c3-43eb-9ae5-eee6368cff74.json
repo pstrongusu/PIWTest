@@ -1,0 +1,21 @@
+{
+  "notebook_line": "2026-07-03  08:05  TestP — placed Bench monument — Survey Monument (SN MON-500) → Bench / Lab",
+  "occurred_at": "2026-07-03T08:05:00",
+  "tz": "MDT",
+  "author": "TestP",
+  "event_type": "placement",
+  "act": "place",
+  "subject": {
+    "kind": "instance",
+    "ref": "iw-foundme"
+  },
+  "anchor": {
+    "kind": "container",
+    "ref": "cont-3ee6c005f5"
+  },
+  "note": "",
+  "visit_id": null,
+  "source": "field",
+  "record_created": "2026-07-15T12:55:51.900659",
+  "event_id": "d9813c6b-34c3-43eb-9ae5-eee6368cff74"
+}

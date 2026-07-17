@@ -1,0 +1,21 @@
+{
+  "notebook_line": "2026-07-01  09:20  TestP — mounted Wiper Tip (SN TIP-300) into Main sonde — EXO2 (SN SND-200)",
+  "occurred_at": "2026-07-01T09:20:00",
+  "tz": "MDT",
+  "author": "TestP",
+  "event_type": "placement",
+  "act": "mount",
+  "subject": {
+    "kind": "instance",
+    "ref": "iw-tip"
+  },
+  "anchor": {
+    "kind": "instance",
+    "ref": "iw-sonde"
+  },
+  "note": "",
+  "visit_id": null,
+  "source": "field",
+  "record_created": "2026-07-15T12:55:51.894941",
+  "event_id": "640df622-7d5b-4981-8ce8-33fc4599803f"
+}

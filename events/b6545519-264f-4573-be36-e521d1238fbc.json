@@ -1,0 +1,21 @@
+{
+  "notebook_line": "2026-07-02  08:00  TestP — deployed Stage Plate (SN PLT-401) at PIW02",
+  "occurred_at": "2026-07-02T08:00:00",
+  "tz": "MDT",
+  "author": "TestP",
+  "event_type": "placement",
+  "act": "deploy",
+  "subject": {
+    "kind": "instance",
+    "ref": "iw-away"
+  },
+  "anchor": {
+    "kind": "site",
+    "ref": "PIW02"
+  },
+  "note": "",
+  "visit_id": null,
+  "source": "field",
+  "record_created": "2026-07-15T12:55:51.897024",
+  "event_id": "b6545519-264f-4573-be36-e521d1238fbc"
+}
