@@ -1,12 +1,12 @@
 {
-  "notebook_line": "2026-07-17  15:49  p-testp â€” quick_note/site_conditions: xjgckhvljvljchkxjg jycihdutsrysjgfkhfukdiyd",
+  "notebook_line": "2026-07-17  15:49  p-testp \u00e2\u20ac\u201d quick_note/site_conditions: xjgckhvljvljchkxjg jhkafdsjhkafdskjh",
   "observation_time": "2026-07-17T15:49:00",
   "entered_timestamp": "2026-07-17T15:49:30.631110",
   "timestamp_end": "2026-07-17T15:49:30.631110",
   "author": "p-testp",
   "type": "quick_note",
   "category": "site_conditions",
-  "text": "xjgckhvljvljchkxjg\n\njycihdutsrysjgfkhfukdiyd",
+  "text": "xjgckhvljvljchkxjg\n\njhkafdsjhkafdskjh",
   "tags": [],
   "data": null,
   "media": null,
@@ -14,7 +14,7 @@
   "comments": [],
   "edit_history": [
     {
-      "timestamp": "2026-07-17T15:51:27",
+      "timestamp": "2026-07-17T15:51:03",
       "edited_by": "unknown",
       "changes": {
         "text": "xjgckhvljvljchkxjg"
@@ -23,5 +23,10 @@
   ],
   "visit_id": "20260716-PIW01-85bdcf987d",
   "record_created": "2026-07-17T15:49:30.653385",
-  "entry_id": "20260717-154930-p-testp-cce1ae38b4"
+  "entry_id": "20260717-154930-p-testp-cce1ae38b4",
+  "_conflict": {
+    "of": "entries/20260717-154930-p-testp-cce1ae38b4.json",
+    "device": "DESKTOP-VB5OH9A",
+    "kept": "local-version-pending-review"
+  }
 }
