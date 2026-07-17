@@ -1,12 +1,12 @@
 {
-  "notebook_line": "2026-07-17  16:26  p-testp â€” quick_note/site_conditions: desptop note tablet edit",
+  "notebook_line": "2026-07-17  16:26  p-testp \u00e2\u20ac\u201d quick_note/site_conditions: desptop note desktop edit",
   "observation_time": "2026-07-17T16:26:00",
   "entered_timestamp": "2026-07-17T16:26:16.816991",
   "timestamp_end": "2026-07-17T16:26:16.816991",
   "author": "p-testp",
   "type": "quick_note",
   "category": "site_conditions",
-  "text": "desptop note\n\ntablet edit",
+  "text": "desptop note\n\ndesktop edit",
   "tags": [],
   "data": null,
   "media": null,
@@ -14,7 +14,7 @@
   "comments": [],
   "edit_history": [
     {
-      "timestamp": "2026-07-17T16:26:54",
+      "timestamp": "2026-07-17T16:27:19",
       "edited_by": "unknown",
       "changes": {
         "text": "desptop note"
@@ -23,5 +23,10 @@
   ],
   "visit_id": "20260717-PIW01-134aa0482e",
   "record_created": "2026-07-17T16:26:16.816991",
-  "entry_id": "20260717-162616-p-testp-3d1fe74c64"
+  "entry_id": "20260717-162616-p-testp-3d1fe74c64",
+  "_conflict": {
+    "of": "entries/20260717-162616-p-testp-3d1fe74c64.json",
+    "device": "DESKTOP-VB5OH9A",
+    "kept": "local-version-pending-review"
+  }
 }
