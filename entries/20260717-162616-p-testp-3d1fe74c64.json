@@ -1,17 +1,26 @@
 {
-  "notebook_line": "2026-07-17  16:26  p-testp — quick_note/site_conditions: desptop note",
+  "notebook_line": "2026-07-17  16:26  p-testp — quick_note/site_conditions: desptop note tablet edit",
   "observation_time": "2026-07-17T16:26:00",
   "entered_timestamp": "2026-07-17T16:26:16.816991",
   "timestamp_end": "2026-07-17T16:26:16.816991",
   "author": "p-testp",
   "type": "quick_note",
   "category": "site_conditions",
-  "text": "desptop note",
+  "text": "desptop note\n\ntablet edit",
   "tags": [],
   "data": null,
   "media": null,
   "deleted": null,
   "comments": [],
+  "edit_history": [
+    {
+      "timestamp": "2026-07-17T16:26:54",
+      "edited_by": "unknown",
+      "changes": {
+        "text": "desptop note"
+      }
+    }
+  ],
   "visit_id": "20260717-PIW01-134aa0482e",
   "record_created": "2026-07-17T16:26:16.816991",
   "entry_id": "20260717-162616-p-testp-3d1fe74c64"
