@@ -1,5 +1,5 @@
 {
-  "notebook_line": "2026-07-17  15:35  p-testp \u00e2\u20ac\u201d quick_note/site_conditions: lycyldoydoy hoyhoyhoyhoy",
+  "notebook_line": "2026-07-17  15:35  p-testp — quick_note/site_conditions: lycyldoydoy hoyhoyhoyhoy",
   "observation_time": "2026-07-17T15:35:00",
   "entered_timestamp": "2026-07-17T15:35:30.377234",
   "timestamp_end": "2026-07-17T15:35:30.377234",
@@ -21,12 +21,11 @@
       }
     }
   ],
+  "split_from_conflict": {
+    "original_entry_id": "20260717-153530-p-testp-b1bf062b59",
+    "device": "FIELD-TABLET-1"
+  },
   "visit_id": "20260717-PIW02-a96b78064b",
   "record_created": "2026-07-17T15:35:30.390321",
-  "entry_id": "20260717-153530-p-testp-b1bf062b59",
-  "_conflict": {
-    "of": "entries/20260717-153530-p-testp-b1bf062b59.json",
-    "device": "FIELD-TABLET-1",
-    "kept": "local-version-pending-review"
-  }
+  "entry_id": "20260717-160107-p-testp-5fc7559922"
 }
