@@ -1,12 +1,12 @@
 {
-  "notebook_line": "2026-07-17  15:49  p-testp â€” quick_note/site_conditions: xjgckhvljvljchkxjg jycihdutsrysjgfkhfukdiyd",
+  "notebook_line": "2026-07-17  15:49  p-testp — quick_note/site_conditions: xjgckhvljvljchkxjg jhkafdsjhkafdskjh",
   "observation_time": "2026-07-17T15:49:00",
   "entered_timestamp": "2026-07-17T15:49:30.631110",
   "timestamp_end": "2026-07-17T15:49:30.631110",
   "author": "p-testp",
   "type": "quick_note",
   "category": "site_conditions",
-  "text": "xjgckhvljvljchkxjg\n\njycihdutsrysjgfkhfukdiyd",
+  "text": "xjgckhvljvljchkxjg\n\njhkafdsjhkafdskjh",
   "tags": [],
   "data": null,
   "media": null,
@@ -14,7 +14,7 @@
   "comments": [],
   "edit_history": [
     {
-      "timestamp": "2026-07-17T15:51:27",
+      "timestamp": "2026-07-17T15:51:03",
       "edited_by": "unknown",
       "changes": {
         "text": "xjgckhvljvljchkxjg"
